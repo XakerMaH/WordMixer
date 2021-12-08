@@ -7,7 +7,7 @@ using namespace std;
 
 int main()
 {
-	/русский язык
+	//русский язык
 	SetConsoleCP(1251);
 	SetConsoleOutputCP(1251);
 
